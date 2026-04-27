@@ -1,29 +1,28 @@
 🚀 Perpetuals DEX Leaderboard Dashboard
 
-A modern, responsive, and animated leaderboard dashboard built with React, TypeScript, and Tailwind CSS.
-Designed to showcase trading leaderboard data in a clean UI with smooth animations and scalable architecture.
-
+A modern, high-performance leaderboard dashboard built with React, TypeScript, and Tailwind CSS.
+Designed for DeFi and trading platforms, featuring smooth animations, clean UI, and scalable architecture.
 
 ✨ Features
-📊 Clean and responsive leaderboard UI
-⚡ High-performance frontend with Vite
-🎬 Smooth animations using Framer Motion
-🎨 Modern styling with Tailwind CSS
-🔤 Beautiful icons via Lucide React
-🧩 Modular and scalable component structure
-🧹 Strong code quality with ESLint + TypeScript
+📊 Responsive and intuitive leaderboard interface
+⚡ Fast and optimized with Vite
+🎬 Smooth animations powered by Framer Motion
+🎨 Clean, modern UI with Tailwind CSS
+🔤 Minimal and consistent icons using Lucide
+🧩 Modular, reusable component architecture
+🧹 Strong code quality with TypeScript and ESLint
 🛠️ Tech Stack
 ⚛️ Frontend
-React – UI library
-TypeScript – Type safety and scalability
+React — Component-based UI
+TypeScript — Type safety and maintainability
 ⚡ Build & Tooling
-Vite – Fast dev server and build tool
-ESLint – Linting and code quality
-PostCSS – CSS transformations
+Vite — Lightning-fast dev environment
+ESLint — Code linting and standards
+PostCSS — CSS processing
 🎨 UI & Animation
-Tailwind CSS – Utility-first styling
-Framer Motion – Animations and transitions
-Lucide React – Icon library
+Tailwind CSS — Utility-first styling
+Framer Motion — Animations and transitions
+Lucide React — Icon system
 ✅ Code Quality
 TypeScript ESLint
 React Hooks ESLint Plugin
@@ -32,12 +31,14 @@ React Refresh ESLint Plugin
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
-🧪 Run Locally
-Start development server
+🧪 Running Locally
+# Start development server
 npm run dev
-Build for production
+
+# Build for production
 npm run build
-Preview production build
+
+# Preview production build
 npm run preview
 📂 Project Structure
 ├── index.html
@@ -49,33 +50,32 @@ npm run preview
 ├── tailwind.config.js
 ├── postcss.config.js
 ├── tsconfig.json
-🎯 Use Case
-
-This dashboard can be used for:
-
-📈 Crypto trading leaderboards
-📊 DeFi analytics platforms
+🎯 Use Cases
+📈 Crypto & perpetual trading leaderboards
+📊 DeFi analytics dashboards
 🧪 UI/UX experimentation with real-time data
-🚀 Portfolio showcase projects
+🚀 Developer portfolio projects
 🚧 Future Improvements
-🔌 API integration for real-time leaderboard data
-🌐 WebSocket support for live updates
-📱 Improved mobile responsiveness
-🧠 Advanced filtering & sorting
-🌓 Dark/Light theme toggle
+🔌 Real-time API integration
+🌐 WebSocket-based live updates
+📱 Enhanced mobile responsiveness
+🧠 Advanced sorting and filtering
+🌓 Dark / Light mode
 🤝 Contributing
 
-Contributions are welcome!
-Feel free to fork the repo and submit a PR.
+Contributions are welcome.
+Fork the repo, create a branch, and submit a pull request.
 
 📄 License
 
-This project is licensed under the MIT License.
+Licensed under the MIT License.
 
 👨‍💻 Author
 
 Taukeer Khan
+Full Stack Developer
+Interested in Systems, Trading, and Scalable Architectures
 
-💼 Full Stack Developer
-⚡ Interested in Systems, Trading, and Scalable Architectures
+⭐ Notes
 
+If you find this project useful, consider giving it a star ⭐
