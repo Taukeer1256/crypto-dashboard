@@ -1,75 +1,81 @@
-# 🚀 Perpetuals DEX Leaderboard Dashboard
+🚀 Perpetuals DEX Leaderboard Dashboard
 
-A modern and responsive dashboard built using React, TypeScript, and Tailwind CSS. This project showcases leaderboard data in a clean, animated interface using Framer Motion and Lucide icons.
+A modern, responsive, and animated leaderboard dashboard built with React, TypeScript, and Tailwind CSS.
+Designed to showcase trading leaderboard data in a clean UI with smooth animations and scalable architecture.
 
----
 
-## 📸 Demo
-
-> [Include a screenshot or link to live demo if available]
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-- ⚛️ [React](https://reactjs.org/) – UI library
-- 📘 [TypeScript](https://www.typescriptlang.org/) – Strongly typed JavaScript
-
-**Build & Tooling**
-- ⚡ [Vite](https://vitejs.dev/) – Fast build tool and dev server
-- 🧹 [ESLint](https://eslint.org/) – Linting and code quality
-- 📦 [PostCSS](https://postcss.org/) – CSS transformations
-- 💨 [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework
-
-**UI & Animation**
-- 🎨 [Tailwind CSS](https://tailwindcss.com/) – Custom themes and styles
-- 🎬 [Framer Motion](https://www.framer.com/motion/) – Smooth animations
-- 🔤 [Lucide React](https://lucide.dev/) – Icon library
-
-**Code Quality**
-- ✅ [TypeScript ESLint](https://typescript-eslint.io/)
-- 🔄 [React Hooks ESLint Plugin](https://www.npmjs.com/package/eslint-plugin-react-hooks)
-- 🔁 [React Refresh ESLint Plugin](https://www.npmjs.com/package/eslint-plugin-react-refresh)
-
----
-
-## 📦 Installation
-
-```bash
+✨ Features
+📊 Clean and responsive leaderboard UI
+⚡ High-performance frontend with Vite
+🎬 Smooth animations using Framer Motion
+🎨 Modern styling with Tailwind CSS
+🔤 Beautiful icons via Lucide React
+🧩 Modular and scalable component structure
+🧹 Strong code quality with ESLint + TypeScript
+🛠️ Tech Stack
+⚛️ Frontend
+React – UI library
+TypeScript – Type safety and scalability
+⚡ Build & Tooling
+Vite – Fast dev server and build tool
+ESLint – Linting and code quality
+PostCSS – CSS transformations
+🎨 UI & Animation
+Tailwind CSS – Utility-first styling
+Framer Motion – Animations and transitions
+Lucide React – Icon library
+✅ Code Quality
+TypeScript ESLint
+React Hooks ESLint Plugin
+React Refresh ESLint Plugin
+📦 Installation
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
-
 🧪 Run Locally
-Start the development server:
-
-bash
-Copy
-Edit
+Start development server
 npm run dev
-Build for production:
-
-bash
-Copy
-Edit
+Build for production
 npm run build
-Preview the production build:
-
-bash
-Copy
-Edit
+Preview production build
 npm run preview
 📂 Project Structure
-pgsql
-Copy
-Edit
 ├── index.html
+├── public/
 ├── src/
 │   ├── main.tsx
 │   └── components/
-├── public/
 ├── package.json
 ├── tailwind.config.js
 ├── postcss.config.js
 ├── tsconfig.json
+🎯 Use Case
+
+This dashboard can be used for:
+
+📈 Crypto trading leaderboards
+📊 DeFi analytics platforms
+🧪 UI/UX experimentation with real-time data
+🚀 Portfolio showcase projects
+🚧 Future Improvements
+🔌 API integration for real-time leaderboard data
+🌐 WebSocket support for live updates
+📱 Improved mobile responsiveness
+🧠 Advanced filtering & sorting
+🌓 Dark/Light theme toggle
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork the repo and submit a PR.
+
+📄 License
+
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+Taukeer Khan
+
+💼 Full Stack Developer
+⚡ Interested in Systems, Trading, and Scalable Architectures
+
